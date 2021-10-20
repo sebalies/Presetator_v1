@@ -1,0 +1,40 @@
+{
+  "/OSC13": {"value": 0},
+  "/OSC12": {"value": 0},
+  "/OSC11": {"value": 0},
+  "/osc": {
+    "min": 0,
+    "max": 1,
+    "value": 0.9928362965583801
+  },
+  "/paramSelect1": {"value": 0},
+  "/clipSelect3": {"value": 0},
+  "/clipSelect2": {"value": 0},
+  "/paramSelect2": {"value": 0},
+  "/paramSelect3": {"value": 0},
+  "/clipSelect1": {"value": 0},
+  "/layerSelect1": {"value": 0},
+  "/layerSelect3": {"value": 0},
+  "/layerSelect2": {"value": 0},
+  "/osc1_rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.009999999776482582
+  },
+  "/cantidad": {"text": "3"},
+  "/Slider2": {
+    "min": 0,
+    "max": 1,
+    "value": 0
+  },
+  "/Slider3": {
+    "min": 0,
+    "max": 1,
+    "value": 0
+  },
+  "/Slider1": {
+    "min": 0,
+    "max": 1,
+    "value": 0
+  }
+}

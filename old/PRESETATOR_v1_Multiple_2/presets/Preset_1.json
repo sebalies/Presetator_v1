@@ -1,0 +1,76 @@
+{
+  "/OSC14": {"value": 0},
+  "/OSC13": {"value": 0},
+  "/OSC12": {"value": 1},
+  "/OSC11": {"value": 1},
+  "/P0": {
+    "stringValue": "P0",
+    "value": 0
+  },
+  "/P1": {
+    "stringValue": "P1",
+    "value": 0
+  },
+  "/OSC1_Value_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.16161616146564484
+  },
+  "/P2": {
+    "stringValue": "P2",
+    "value": 0
+  },
+  "/P3": {
+    "stringValue": "P3",
+    "value": 0
+  },
+  "/P4": {
+    "stringValue": "P4",
+    "value": 0
+  },
+  "/CreateBot_label": {
+    "stringValue": "ADD PARAM",
+    "value": 0
+  },
+  "/OSC10": {"value": 1},
+  "/Dir4": {"text": ""},
+  "/Dir2": {"text": ""},
+  "/Dir3": {"text": ""},
+  "/Dir0": {"text": ""},
+  "/Dir1": {"text": ""},
+  "/osc": {
+    "min": 0,
+    "max": 1,
+    "value": 0.476260244846344
+  },
+  "/on4": {"value": 0},
+  "/on3": {"value": 0},
+  "/on2": {"value": 0},
+  "/on1": {"value": 0},
+  "/on0": {"value": 0},
+  "/Slider4": {
+    "min": 0,
+    "max": 1,
+    "value": 0
+  },
+  "/Slider2": {
+    "min": 0,
+    "max": 1,
+    "value": 0.476260244846344
+  },
+  "/Slider3": {
+    "min": 0,
+    "max": 1,
+    "value": 0
+  },
+  "/Slider0": {
+    "min": 0,
+    "max": 1,
+    "value": 0.476260244846344
+  },
+  "/Slider1": {
+    "min": 0,
+    "max": 1,
+    "value": 0.476260244846344
+  }
+}
