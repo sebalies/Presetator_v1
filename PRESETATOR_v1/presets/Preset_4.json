@@ -1,0 +1,97 @@
+{
+  "/OSC12": {"value": 0},
+  "/OSC11": {"value": 0},
+  "/OSC1_label": {
+    "stringValue": "OSCILATOR 1",
+    "value": 0
+  },
+  "/ClearParamBot_label": {
+    "stringValue": "ADD PARAM",
+    "value": 0
+  },
+  "/OSC1Select": {"value": 0},
+  "/OSC3_label": {
+    "stringValue": "OSCILATOR 3",
+    "value": 0
+  },
+  "/P0": {
+    "stringValue": "P0",
+    "value": 0
+  },
+  "/P1": {
+    "stringValue": "P1",
+    "value": 0
+  },
+  "/OSC1_Value_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.05999999865889549
+  },
+  "/P2": {
+    "stringValue": "P2",
+    "value": 0
+  },
+  "/OSC10": {"value": 0},
+  "/OSC32": {"value": 0},
+  "/OSC31": {"value": 0},
+  "/OSC30": {"value": 0},
+  "/OSC2Select": {"value": 1},
+  "/Dir2": {"text": "/layer5/clip8/video/param3/values"},
+  "/OSC_3_Preview": {
+    "min": 0,
+    "max": 1,
+    "value": 0.8876428604125977
+  },
+  "/OSC22": {"value": 0},
+  "/Dir0": {"text": "/layer5/clip8/video/param1/values"},
+  "/OSC2_Value_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.07999999821186066
+  },
+  "/Dir1": {"text": "/layer5/clip8/video/param2/values"},
+  "/OSC_2_Preview": {
+    "min": 0,
+    "max": 1,
+    "value": 0.485336571931839
+  },
+  "/AddParamBot_label": {
+    "stringValue": "ADD PARAM",
+    "value": 0
+  },
+  "/OSC_1_Preview": {
+    "min": 0,
+    "max": 1,
+    "value": 0.09896910190582275
+  },
+  "/OSC2_label": {
+    "stringValue": "OSCILATOR 2",
+    "value": 0
+  },
+  "/on2": {"value": 1},
+  "/on1": {"value": 1},
+  "/OSC3_Value_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.009999999776482582
+  },
+  "/on0": {"value": 1},
+  "/OSC3Select": {"value": 0},
+  "/Slider2": {
+    "min": 0,
+    "max": 1,
+    "value": 0.4000000059604645
+  },
+  "/OSC21": {"value": 0},
+  "/OSC20": {"value": 0},
+  "/Slider0": {
+    "min": 0,
+    "max": 1,
+    "value": 0.31111112236976624
+  },
+  "/Slider1": {
+    "min": 0,
+    "max": 1,
+    "value": 0.944444477558136
+  }
+}

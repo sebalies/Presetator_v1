@@ -1,0 +1,85 @@
+{
+  "/TIMELINE_RandBot_label": {
+    "stringValue": "R",
+    "value": 0
+  },
+  "/OSC_3_Preview": {
+    "min": 0,
+    "max": 1,
+    "value": 0.33873337507247925
+  },
+  "/TIMELINE_1_Speed": {
+    "min": -0.10000000149011612,
+    "max": 0.10000000149011612,
+    "value": 0.01000000536441803
+  },
+  "/OSC1_label": {
+    "stringValue": "OSCILATOR 1",
+    "value": 0
+  },
+  "/OSC2_Value_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.009999999776482582
+  },
+  "/OSC_2_Preview": {
+    "min": 0,
+    "max": 1,
+    "value": 0.33873337507247925
+  },
+  "/OSC1_Value_Offset": {
+    "min": 0,
+    "max": 2,
+    "value": 0
+  },
+  "/OSC1Select": {"value": 0},
+  "/OSC3_label": {
+    "stringValue": "OSCILATOR 3",
+    "value": 0
+  },
+  "/OSC3_Value_Offset": {
+    "min": 0,
+    "max": 2,
+    "value": 0
+  },
+  "/TIMELINE_RandBot": {"value": 0},
+  "/OSC2_Value_Offset": {
+    "min": 0,
+    "max": 2,
+    "value": 0
+  },
+  "/AddParamBot_label": {
+    "stringValue": "ADD PARAM",
+    "value": 0
+  },
+  "/OSC_1_Preview": {
+    "min": 0,
+    "max": 1,
+    "value": 0.33873337507247925
+  },
+  "/OSC2_label": {
+    "stringValue": "OSCILATOR 2",
+    "value": 0
+  },
+  "/OSC1_Value_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.009999999776482582
+  },
+  "/TIMELINE_1_label": {
+    "stringValue": "TIMELINE 1",
+    "value": 0
+  },
+  "/TIMELINE_1_Preview": {
+    "min": 0,
+    "max": 1,
+    "value": 0.4799981117248535
+  },
+  "/OSC3_Value_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.009999999776482582
+  },
+  "/OSC3Select": {"value": 0},
+  "/OSC2Select": {"value": 0}
+}
